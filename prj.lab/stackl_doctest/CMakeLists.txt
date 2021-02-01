@@ -1,0 +1,2 @@
+add_executable(stackl_doctest stackl_doctest.cpp)
+target_link_libraries(stackl_doctest stackl)

@@ -1,0 +1,4 @@
+add_library(matrixvs
+  matrixvs.h
+  matrixvs.cpp
+)

@@ -1,0 +1,2 @@
+add_executable(all_matrix_doctest all_matrix_doctest.cpp)
+target_link_libraries(all_matrix_doctest matrixvs matrixvr matrixds matrixls matrixdr matrixlr)

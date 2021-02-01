@@ -1,0 +1,2 @@
+add_executable(queuea_doctest queuea_doctest.cpp)
+target_link_libraries(queuea_doctest queuea)
